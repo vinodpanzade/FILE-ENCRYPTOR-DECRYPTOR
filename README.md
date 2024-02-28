@@ -30,7 +30,7 @@ The cascading algorithm combines AES and BlowFish encryption to enhance the secu
     ```
 
 ### Contributors
-- Mahesh Sathe
+- Vinod Panzade
 
 ### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
